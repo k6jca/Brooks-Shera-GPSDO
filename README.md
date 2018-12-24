@@ -9,7 +9,7 @@ This simulation model was created using MATLAB version R2018B.
 
 I have also included a PDF of a printout scan of Shera's 
 PIC code (Rev. 1.28).  Please feel free to verify this source
-code to my model.  (And my apologies for the PDF -- the actual 
+code against my model.  (And my apologies for the PDF -- the actual 
 source code file disappeared long long ago).
 
 Please note that I might have made a mistake in my equations, assumptions, 
