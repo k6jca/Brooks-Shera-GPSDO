@@ -12,8 +12,9 @@ PIC code (Rev. 1.28).  Please feel free to verify this source
 code against my model.  (And my apologies for the PDF -- my copy of
 the actual source code file disappeared long long ago).
 
-Also included is an Excel .XLSX file that contains actual 1 PPS
-jitter from a Quectel L76 GPS receiver.  This can be used by
+I've included two Excel .XLSX files that contain 1 PPS jitter information.
+The first file is jitter from a Quectel L76 GPS receiver, and the
+other file is jitter from a Trimble Resolution T GPS receiver.  Either file can be used in
 the Simulink model to simulate the PLL's response to jitter noise.
 
 Please note that I might have made a mistake in my equations, assumptions, 
