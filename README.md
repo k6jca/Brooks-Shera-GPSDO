@@ -1,5 +1,7 @@
 # Brooks-Shera-GPSDO
-Simulink Model (and other information) of the Brooks Shera (W5OJM) GPSDO
+Simulink Model (and other information) of the Brooks Shera (W5OJM) GPSDO.
+These files go with my blogpost on this topic at: 
+<url>http://k6jca.blogspot.com/2018/12/simulating-brooks-shera-w5ojm-gpsdo.html</url>
 
 This respository contains my Simulink model (.SLX file) of the 
 Brooks Shera GPSDO, created from the comments and code in 
